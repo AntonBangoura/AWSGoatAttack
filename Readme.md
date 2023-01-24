@@ -1,7 +1,10 @@
 # Attacking AwsGoat infrastructure with tools.
 
+## Each file documents one step of the pentesting
+### Within each file, a file documents the use of a specific tool
 
-### I will conduct my pentest in such steps: 
+
+#### I will conduct my pentest in such steps: 
 1. Reconnaissance: Gather information about the target website and its associated AWS infrastructure, including IP addresses, domain names, and any subdomains.
 
 2. Vulnerability scanning: Use automated tools to identify known vulnerabilities in the website and its associated AWS resources.
@@ -19,3 +22,5 @@
 8. Reporting: Document all findings and provide a detailed report of the vulnerabilities identified, the methods used to exploit them, and the data exfiltrated.
 
 9. Remediation: Work with the client to implement remediation strategies to address the vulnerabilities identified.
+
+
