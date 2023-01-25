@@ -12,3 +12,31 @@ Telnet - a built-in command-line tool on most operating systems that can be used
 #### https://github.com/salesforce/cloudsplaining
 #### https://github.com/RhinoSecurityLabs/pacu
 https://infosecwriteups.com/deep-dive-into-aws-penetration-testing-a99192a26898
+
+### https://www.getsecureworld.com/blog/best-tools-for-cloud-penetration-testing/
+    AWS Inspector
+    Nmap
+    Pacu
+    Cred Scanner
+    Mimikatz
+    AWS PWN
+    Cloudfrunt
+    Cloudjack
+    Nimbostratus
+    GitLeaks
+    TruffleHog
+    DumpsterDiver
+    enumerate-iam
+    Barq
+    CCAT
+    CloudBrute
+    Azucar
+    MicroBurst
+    Nessus
+    
+    ### https://geekflare.com/reconnaissance-exploit-search-tools/
+    ### https://essay.utwente.nl/76955/1/Szabo_MSc_EEMCS.pdf 
+    ### https://theqalead.com/tools/best-web-application-penetration-testing-tools/
+    ### https://rhinosecuritylabs.com/penetration-testing/web-recon-tools-crash-course/
+    ### https://veille-cyber.com/most-important-web-application-penetration-testing-tools-resources-for-hackers-and-security-professionals/
+    ### https://bishopfox.com/blog/cloud-pen-testing-tools
