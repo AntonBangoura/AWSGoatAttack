@@ -23,4 +23,11 @@
 
 9. Remediation: Work with the client to implement remediation strategies to address the vulnerabilities identified.
 
-
+Those operations are allowed for aws ressource:
+    Port scanning
+    Vulnerability scanning or checks
+    Web application scanning
+    Exploitation
+    Forgery
+    Injections
+    Fuzzing
