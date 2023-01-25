@@ -33,10 +33,9 @@ https://infosecwriteups.com/deep-dive-into-aws-penetration-testing-a99192a26898
     Azucar
     MicroBurst
     Nessus
-    
-    ### https://geekflare.com/reconnaissance-exploit-search-tools/
-    ### https://essay.utwente.nl/76955/1/Szabo_MSc_EEMCS.pdf 
-    ### https://theqalead.com/tools/best-web-application-penetration-testing-tools/
-    ### https://rhinosecuritylabs.com/penetration-testing/web-recon-tools-crash-course/
-    ### https://veille-cyber.com/most-important-web-application-penetration-testing-tools-resources-for-hackers-and-security-professionals/
-    ### https://bishopfox.com/blog/cloud-pen-testing-tools
+### https://geekflare.com/reconnaissance-exploit-search-tools/
+### https://essay.utwente.nl/76955/1/Szabo_MSc_EEMCS.pdf 
+### https://theqalead.com/tools/best-web-application-penetration-testing-tools/
+### https://rhinosecuritylabs.com/penetration-testing/web-recon-tools-crash-course/
+### https://veille-cyber.com/most-important-web-application-penetration-testing-tools-resources-for-hackers-and-security-professionals/
+### https://bishopfox.com/blog/cloud-pen-testing-tools
