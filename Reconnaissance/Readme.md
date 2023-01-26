@@ -3,6 +3,9 @@ Nmap - a widely used open-source tool for network exploration and security audit
 Masscan - a fast port scanner that can scan large networks quickly <br>
 Telnet - a built-in command-line tool on most operating systems that can be used to test connectivity to a specific port <br>
 
+
+#### https://github.com/devanshbatham/Gorecon
+
 #### https://github.com/nccgroup/PMapper
 #### https://github.com/nccgroup/aws-inventory
 #### https://github.com/FishermansEnemy/bucket_finder 
