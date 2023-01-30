@@ -31,3 +31,6 @@ Those operations are allowed for aws ressource:
     Forgery
     Injections
     Fuzzing
+    
+    Additional ressources:
+    https://github.com/riyazwalikar/pentestawslambda/blob/master/Pentesting-AWS-Lambda-Functions.md <br>
