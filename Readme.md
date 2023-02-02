@@ -32,9 +32,9 @@ Those operations are allowed for aws ressource:
     Injections
     Fuzzing
     
-    Additional ressources:
-    https://github.com/riyazwalikar/pentestawslambda/blob/master/Pentesting-AWS-Lambda-Functions.md <br>
+# Additional ressources:
+https://github.com/riyazwalikar/pentestawslambda/blob/master/Pentesting-AWS-Lambda-Functions.md 
     
     
-    # Amazing roadmap
-    https://raw.githubusercontent.com/am0nt31r0/Penetration-Testing-Mind-Map/master/pentest_methodology_and_tools.png
+# Amazing roadmap
+https://raw.githubusercontent.com/am0nt31r0/Penetration-Testing-Mind-Map/master/pentest_methodology_and_tools.png
